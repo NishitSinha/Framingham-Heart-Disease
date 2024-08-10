@@ -40,10 +40,6 @@ The notebook provides detailed results on model performance, including confusion
 - matplotlib
 - seaborn
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - The dataset used is from the [Framingham Heart Study](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression).
